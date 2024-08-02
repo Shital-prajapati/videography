@@ -1,0 +1,19 @@
+.hero{
+    height: 90vh;
+    background-image: url(./img/hero/hero-1.jpg);
+}
+.ss{
+    left: 20%;
+
+ 
+}
+.hero-2{
+    background-image: url('./img/callto-bg.jpg');
+     height: 100vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+
+
